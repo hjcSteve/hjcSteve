@@ -6,7 +6,7 @@
 
 I am a diligent student currently pursuing a Master's degree in Computer Engineering at Alma Mater in Bologna. My academic journey has been marked by a genuine interest in the field and a commitment to learning and growing in the world of computer engineering.
 
-## 🧰 Teck stack
+## 🧰 Tech stack
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
