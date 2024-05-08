@@ -2,6 +2,8 @@
 
 **`Computer Engineering Student at Alma Mater`**
 
+https://hjcsteve.github.io/hjcSteve/
+
 ## 🖥️ Education:
 
 I am a diligent student currently pursuing a Master's degree in Computer Engineering at Alma Mater in Bologna. My academic journey has been marked by a genuine interest in the field and a commitment to learning and growing in the world of computer engineering.
